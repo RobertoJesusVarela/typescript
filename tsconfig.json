@@ -1,0 +1,10 @@
+{
+    "exclude":["typescript2"],
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "noImplicitAny": true
+    }
+}
